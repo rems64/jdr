@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "socket.io": "^4.5.0"
+  },
+  "name": "jdr",
+  "version": "1.0.0",
+  "description": "A client to connect jdr players",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rems64/jdr.git"
+  },
+  "author": "Rémy Fayet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rems64/jdr/issues"
+  },
+  "homepage": "https://github.com/rems64/jdr#readme"
+}
